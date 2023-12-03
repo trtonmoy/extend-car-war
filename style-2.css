@@ -25,7 +25,8 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://nomeme.club/wp-content/uploads/2023/11/8669db0cb7e8f422f2c2565287631491.gif");
+  background-color: rgb(114, 84, 89);
+  /* background-image: url("https://nomeme.club/wp-content/uploads/2023/11/8669db0cb7e8f422f2c2565287631491.gif"); */
   background-position: center center;
   background-size: cover;
 }
